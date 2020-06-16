@@ -15,4 +15,5 @@ The goal is to not only build an application that I myself would use, but also l
 * Ability to automatically associate transactions with said categories (presumably requires some configuration)
 * Abiilty to record income information on top of expenditures, and take into accunt special transactions such as 401k and IRA contributions
 * Ability to add events/locational information in order to better report cost of living in specific areas/account for specific events (such as expenditures made while traveling)
-
+* Ability to split apart certain consolidated transactions (such as utilities from rent)
+* Ability to handle transfer transactions (such as credit card payments)
