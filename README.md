@@ -17,3 +17,4 @@ The goal is to not only build an application that I myself would use, but also l
 * Ability to add events/locational information in order to better report cost of living in specific areas/account for specific events (such as expenditures made while traveling)
 * Ability to split apart certain consolidated transactions (such as utilities from rent)
 * Ability to handle transfer transactions (such as credit card payments)
+* Ability to link specific transactions together (force offsets) so that they don't show up on reporting - e.g. expenses that were reimbursed
